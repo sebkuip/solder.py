@@ -1,0 +1,26 @@
+{
+    "display_name":"solder.py test pack",
+    "url":null,
+    "icon":"http://cdn.technicpack.netresources/tekkitmain/icon.png?1419981117",
+    "icon_md5":"1dd87c03268a7144411bb8cbe8bf7326",
+    "logo":"http://cdn.technicpack.net/resources/tekkitmain/logo.png?1419981117",
+    "logo_md5":"2f9625f8343cd1aaa35d3dd631ad64e1",
+    "background":"http://cdn.technicpack.net/resources/tekkitmain/background.png?1419981117",
+    "background_md5":"f39ae618809383451f6832e4d2a738fe",
+    "recommended":"1.0.0",
+    "latest": "1.0.0",
+    "builds": [
+                {
+                    "version": "1.0",
+                    "minecraft":"1.16.5",
+                    "forge":null,
+                    "mods": [
+                        {
+                            "name": "JEI",
+                            "version": "1.0.0",
+                            "url": "https://solderpy.tekxit.xyz/api/mod/JEI-1.0.0"
+                        }
+                    ]
+                }
+            ]
+}
